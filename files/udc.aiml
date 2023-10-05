@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Good morning
+</pattern>
+    <template>Good Morning! I am here to assist you.</template>
+</category>
+<category>
+    <pattern>I am feeling low</pattern>
+    <template>Why are you feeling low? how can i assist you in that</template>
+</category>
+<category>
+    <pattern>Hello, chatbot  How are you today </pattern>
+    <template>Hi there! I'm just a computer program, so I don't have feelings, but I'm here and ready to assist you. How can I help you today?</template>
+</category>
+<category>
+    <pattern>I'd prefer a laptop with a good battery life and a decent display  Do you have any specific models in mind </pattern>
+    <template>Sure, some models to consider are the Dell XPS 13, Lenovo ThinkPad X1 Carbon, and ASUS ROG Zephyrus G14. These laptops offer a balance of performance, battery life, and display quality. Be sure to read reviews and compare them based on your specific needs before making a decision.</template>
+</category>
+</aiml>
